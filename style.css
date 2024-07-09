@@ -33,6 +33,9 @@
 .nav3{
     text-align: center;
 }
+.nav4{
+    justify-content: center;
+}
 
 #nav5{
     font-size: 48px;
@@ -40,27 +43,114 @@
     color: #0D1321;
     width: 998px;
     text-align: center;
+    margin: 24px auto 32px;
 }
 #nav6{
     font-size:16px ;
-    font-weight: 200;
+    font-weight: 400;
     color: #0D1321;
     width: 852px;
     text-align: center;
+    margin: 0px auto 32px;
 }
 #nav7{
     background-color: #0D1321;
+    border-radius: 8px;
+    margin:0px 37%;
+    padding: 21px 24px; 
     
 }
 #nav8{
     color:#FFFFFF;
     text-decoration: none;
-    font-weight: ;
+    font-weight:800 ;
+    font-size: 20px;
+}
+.nav9{
+    width: 998px;
+    height: 581px;
+    margin: 30px auto 35px;
 }
 
 .head2{
-    border: 2px solid red;
     max-width: 1440px;
     height: 652px;
     margin:0px auto 74px;
+    background-image:url(assets/Hero-bg.png);
+}
+.main1{
+    width:1140px;
+    height: 1393px;
+    background-color: rgba(13, 19, 33, 0.02);
+    border: 1px solid red;
+    margin: 0px auto 90px;
+}
+#nav10{
+    font-size: 32px;
+    font-weight: 800;
+    color:#0D1321 ;
+    width: 852px;
+    height: 37px;
+    margin: 0 32% 24px;
+
+}
+#nav11{
+    font-size: 16px;
+    font-weight: 400;
+    color:#0D1321 ;
+    width: 852px;
+    height: 113px;
+    margin: 0px auto 24px;
+    text-align: center;
+}
+.nav12{
+   
+    
+}
+#nav13{
+    width: 477px;
+    font-size: 24px;
+    font-weight: 800;
+    color: #0D1321;
+    margin:10px auto 16px 0px;
+    text-align:start;
+}
+#nav14{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0D1321;
+    width: 468px;
+}
+#nav15{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0D1321;
+    width: 150px;
+    height:40px ;
+    margin-top: 32px;
+
+}
+#nav16{
+    width: 274.17px;
+    height: 240px;
+    
+}
+
+.nav17{
+    width: 946px;
+    height: 336px;
+    background-color:#FFFFFF ;
+    margin: 0px auto 32px; 
+    
+}
+.nav18{
+    padding: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav19{
+    width: 946px;
+    height: 336px;
+    background-color:#FFFFFF ;
+    margin: 32px auto 32px; 
 }
