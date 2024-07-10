@@ -9,7 +9,7 @@
     font-size: 25px;
     font-weight: 700;
     color:#0D1321 ;
-    margin: 50px auto 48px auto;
+    margin: 50px auto 20px auto;
 }
 
 #nav2{
@@ -18,12 +18,16 @@
     color:#0D1321 ;
     padding: 17px 24px;
     border-radius: 8px;
-    margin: 38px auto 36px;
+    margin: 30px auto 30px;
     border-color: #0D1321;
 }
 .head1{
     display:flex;
    justify-content: space-around;
+   width: 1440px;
+   
+   margin: 0px auto 0px;
+   
 }
 
 #img1{
